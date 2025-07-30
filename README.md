@@ -15,7 +15,7 @@
 - Limitations and Future Work
 - License
 
-## 🧠 Introduction
+## Introduction
 
 This project focuses on detecting **credit card fraud** using machine learning techniques. It tackles the challenge of identifying fraudulent transactions in an imbalanced dataset, where the number of fraud cases is significantly lower than normal ones.
 
@@ -129,14 +129,14 @@ CreditCard-Fraud-Detection/
 └── images/
     └── classification_report.png       # Screenshot of model performance
 
-## 🔍 Limitations
+## Limitations
 
 - The dataset is highly imbalanced; although SMOTE was used, real-world imbalance may vary.
 - Feature names are anonymized, limiting interpretability and domain-specific insights.
 - The model is not integrated into a live system for real-time detection.
 - Current approach lacks model explainability for flagged transactions.
 
-## 🚀 Future Work
+## Future Work
 
 - Deploy the model in a real-time fraud monitoring system.
 - Incorporate additional contextual features like location, merchant type, and device ID.
