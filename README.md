@@ -122,9 +122,13 @@ Overall, the model performs well in identifying frauds while minimizing incorrec
 CreditCard-Fraud-Detection/
 │
 ├── Credit_Card_Fraud_Detection.ipynb   # Main Jupyter notebook (Colab)
+
 ├── README.md                           # Project description and usage guide
+
 ├── .gitignore                          # Files/folders to ignore
+
 ├── .gitattributes                      # Git attributes (text encoding etc.)
+
 │
 └── images/
     └── classification_report.png       # Screenshot of model performance
